@@ -27,6 +27,5 @@ Este repositorio contiene el código fuente utilizado para automatizar la obtenc
 
 Este código fue desarrollado como parte de un trabajo de investigación sobre automatización de mediciones con MATLAB. Si lo utilizas, por favor cita el artículo correspondiente:
 
-> Torres, W. (2025). *Automatización de mediciones para la obtención de diagramas de bode de circuitos eléctricos mediante MATLAB y protocolo GPIB*. Congreso CIREDII.
-
+> Torres, W. (2025). *Automatización de mediciones para la obtención de diagramas de bode de circuitos eléctricos mediante MATLAB y protocolo GPIB*.
 Este código se comparte solo para fines educativos y académicos.
